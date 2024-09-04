@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CSharp\\TEMP_Prof_Nelio\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This.csproj": {}
+    "F:\\CSharp\\CSharp_POO_Estudo\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This.csproj": {}
   },
   "projects": {
-    "F:\\CSharp\\TEMP_Prof_Nelio\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This.csproj": {
+    "F:\\CSharp\\CSharp_POO_Estudo\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CSharp\\TEMP_Prof_Nelio\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This.csproj",
+        "projectUniqueName": "F:\\CSharp\\CSharp_POO_Estudo\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This.csproj",
         "projectName": "02_Construtor_Sobrecarga_Encapsulamento_This",
-        "projectPath": "F:\\CSharp\\TEMP_Prof_Nelio\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This.csproj",
+        "projectPath": "F:\\CSharp\\CSharp_POO_Estudo\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This.csproj",
         "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-        "outputPath": "F:\\CSharp\\TEMP_Prof_Nelio\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\obj\\",
+        "outputPath": "F:\\CSharp\\CSharp_POO_Estudo\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

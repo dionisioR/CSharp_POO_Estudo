@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\CSharp\\TEMP_Prof_Nelio\\02_Construtor_Sobrecarga_Encapsulamento_This\\",
+  "WorkspaceRootPath": "F:\\CSharp\\CSharp_POO_Estudo\\02_Construtor_Sobrecarga_Encapsulamento_This\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06256F26-5B72-4E94-9501-0ED5DE9FF365}|02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This.csproj|f:\\csharp\\temp_prof_nelio\\02_construtor_sobrecarga_encapsulamento_this\\02_construtor_sobrecarga_encapsulamento_this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06256F26-5B72-4E94-9501-0ED5DE9FF365}|02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This.csproj|f:\\csharp\\csharp_poo_estudo\\02_construtor_sobrecarga_encapsulamento_this\\02_construtor_sobrecarga_encapsulamento_this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06256F26-5B72-4E94-9501-0ED5DE9FF365}|02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This.csproj|solutionrelative:02_construtor_sobrecarga_encapsulamento_this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06256F26-5B72-4E94-9501-0ED5DE9FF365}|02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This.csproj|f:\\csharp\\csharp_poo_estudo\\02_construtor_sobrecarga_encapsulamento_this\\02_construtor_sobrecarga_encapsulamento_this\\produtosobrecarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06256F26-5B72-4E94-9501-0ED5DE9FF365}|02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This.csproj|solutionrelative:02_construtor_sobrecarga_encapsulamento_this\\produtosobrecarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoSobrecarga.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSharp_POO_Estudo\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\ProdutoSobrecarga.cs",
+              "RelativeDocumentMoniker": "02_Construtor_Sobrecarga_Encapsulamento_This\\ProdutoSobrecarga.cs",
+              "ToolTip": "F:\\CSharp\\CSharp_POO_Estudo\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\ProdutoSobrecarga.cs",
+              "RelativeToolTip": "02_Construtor_Sobrecarga_Encapsulamento_This\\ProdutoSobrecarga.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:25:53.983Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\CSharp\\TEMP_Prof_Nelio\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\Program.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSharp_POO_Estudo\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\Program.cs",
               "RelativeDocumentMoniker": "02_Construtor_Sobrecarga_Encapsulamento_This\\Program.cs",
-              "ToolTip": "F:\\CSharp\\TEMP_Prof_Nelio\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\Program.cs",
+              "ToolTip": "F:\\CSharp\\CSharp_POO_Estudo\\02_Construtor_Sobrecarga_Encapsulamento_This\\02_Construtor_Sobrecarga_Encapsulamento_This\\Program.cs",
               "RelativeToolTip": "02_Construtor_Sobrecarga_Encapsulamento_This\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwE4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T22:56:28.867Z",
               "EditorCaption": ""
