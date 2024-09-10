@@ -62,6 +62,8 @@ namespace _02_Construtor_Sobrecarga_Encapsulamento_This {
             // Pode ser utilizada para inicializar os valores quando não temos os construtores
             // Ou quando temos o contrutor padrão
 
+
+            /*
             Console.WriteLine("Entre com os dados do produto: ");
             Console.Write("Nome: ");
             string _nome = Console.ReadLine();
@@ -76,7 +78,23 @@ namespace _02_Construtor_Sobrecarga_Encapsulamento_This {
                 quantidade = _quantidade
             };
             Console.WriteLine(p3);
+            */
 
+            //----------------------------------------
+            // PROPERTIES
+            //----------------------------------------
+            //Properties p = new Properties("TV", 900.33, 2);
+            //Console.WriteLine(p);
+            //p.Nome = "Rádio";
+            //Console.WriteLine(p);
+
+            //----------------------------------------
+            // AUTO PROPERTIES
+            //----------------------------------------
+            AutoProperties p = new AutoProperties("TV", 900.33, 2);
+            Console.WriteLine(p);
+            p.Nome = "Rádio";
+            Console.WriteLine(p);
         }
     }
 }
