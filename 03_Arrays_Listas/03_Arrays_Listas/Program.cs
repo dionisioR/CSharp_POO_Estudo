@@ -20,7 +20,14 @@ namespace _03_Arrays_Listas {
             //-----------------------------------
             // Vetores_parte_2.Imprimir();
             //-----------------------------------
-            Vetores_parte_3.Executar();
+            // Vetores_parte_3.Executar();
+            //-----------------------------------
+            // ForEach.Executar();
+            //-----------------------------------
+            // Listas_01.Executar();
+            //-----------------------------------
+            Listas_02.Executar();
+
 
 
         }

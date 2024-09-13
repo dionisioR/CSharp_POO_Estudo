@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Micro\\source\\repos\\03_Arrays_Listas\\03_Arrays_Listas\\03_Arrays_Listas.csproj": {}
+    "F:\\CSharp\\CSharp_POO_Estudo\\03_Arrays_Listas\\03_Arrays_Listas\\03_Arrays_Listas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Micro\\source\\repos\\03_Arrays_Listas\\03_Arrays_Listas\\03_Arrays_Listas.csproj": {
+    "F:\\CSharp\\CSharp_POO_Estudo\\03_Arrays_Listas\\03_Arrays_Listas\\03_Arrays_Listas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Micro\\source\\repos\\03_Arrays_Listas\\03_Arrays_Listas\\03_Arrays_Listas.csproj",
+        "projectUniqueName": "F:\\CSharp\\CSharp_POO_Estudo\\03_Arrays_Listas\\03_Arrays_Listas\\03_Arrays_Listas.csproj",
         "projectName": "03_Arrays_Listas",
-        "projectPath": "C:\\Users\\Micro\\source\\repos\\03_Arrays_Listas\\03_Arrays_Listas\\03_Arrays_Listas.csproj",
+        "projectPath": "F:\\CSharp\\CSharp_POO_Estudo\\03_Arrays_Listas\\03_Arrays_Listas\\03_Arrays_Listas.csproj",
         "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Micro\\source\\repos\\03_Arrays_Listas\\03_Arrays_Listas\\obj\\",
+        "outputPath": "F:\\CSharp\\CSharp_POO_Estudo\\03_Arrays_Listas\\03_Arrays_Listas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
