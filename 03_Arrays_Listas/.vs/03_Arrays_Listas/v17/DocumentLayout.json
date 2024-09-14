@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "F:\\CSharp\\CSharp_POO_Estudo\\03_Arrays_Listas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86185728-470E-456B-8E81-1B30BECF9894}|03_Arrays_Listas\\03_Arrays_Listas.csproj|f:\\csharp\\csharp_poo_estudo\\03_arrays_listas\\03_arrays_listas\\listas_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86185728-470E-456B-8E81-1B30BECF9894}|03_Arrays_Listas\\03_Arrays_Listas.csproj|solutionrelative:03_arrays_listas\\listas_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86185728-470E-456B-8E81-1B30BECF9894}|03_Arrays_Listas\\03_Arrays_Listas.csproj|f:\\csharp\\csharp_poo_estudo\\03_arrays_listas\\03_arrays_listas\\matriz_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86185728-470E-456B-8E81-1B30BECF9894}|03_Arrays_Listas\\03_Arrays_Listas.csproj|solutionrelative:03_arrays_listas\\matriz_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86185728-470E-456B-8E81-1B30BECF9894}|03_Arrays_Listas\\03_Arrays_Listas.csproj|f:\\csharp\\csharp_poo_estudo\\03_arrays_listas\\03_arrays_listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "03_Arrays_Listas\\Program.cs",
               "ToolTip": "F:\\CSharp\\CSharp_POO_Estudo\\03_Arrays_Listas\\03_Arrays_Listas\\Program.cs",
               "RelativeToolTip": "03_Arrays_Listas\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBwAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T22:57:06.178Z",
               "IsPinned": true,
@@ -37,15 +37,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Listas_02.cs",
-              "DocumentMoniker": "F:\\CSharp\\CSharp_POO_Estudo\\03_Arrays_Listas\\03_Arrays_Listas\\Listas_02.cs",
-              "RelativeDocumentMoniker": "03_Arrays_Listas\\Listas_02.cs",
-              "ToolTip": "F:\\CSharp\\CSharp_POO_Estudo\\03_Arrays_Listas\\03_Arrays_Listas\\Listas_02.cs",
-              "RelativeToolTip": "03_Arrays_Listas\\Listas_02.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAswFoAAAA5AAAA",
+              "Title": "Matriz_02.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSharp_POO_Estudo\\03_Arrays_Listas\\03_Arrays_Listas\\Matriz_02.cs",
+              "RelativeDocumentMoniker": "03_Arrays_Listas\\Matriz_02.cs",
+              "ToolTip": "F:\\CSharp\\CSharp_POO_Estudo\\03_Arrays_Listas\\03_Arrays_Listas\\Matriz_02.cs",
+              "RelativeToolTip": "03_Arrays_Listas\\Matriz_02.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDcAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:29:50.01Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-09-13T23:21:45.382Z",
               "EditorCaption": ""
             }
           ]

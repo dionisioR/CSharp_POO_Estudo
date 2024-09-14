@@ -1,0 +1,15 @@
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\bin\Debug\net6.0\04_Funcoes_Especiais.exe
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\bin\Debug\net6.0\04_Funcoes_Especiais.deps.json
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\bin\Debug\net6.0\04_Funcoes_Especiais.runtimeconfig.json
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\bin\Debug\net6.0\04_Funcoes_Especiais.dll
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\bin\Debug\net6.0\04_Funcoes_Especiais.pdb
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\obj\Debug\net6.0\04_Funcoes_Especiais.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\obj\Debug\net6.0\04_Funcoes_Especiais.AssemblyInfoInputs.cache
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\obj\Debug\net6.0\04_Funcoes_Especiais.AssemblyInfo.cs
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\obj\Debug\net6.0\04_Funcoes_Especiais.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\obj\Debug\net6.0\04_Funcoes_Especiais.sourcelink.json
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\obj\Debug\net6.0\04_Funcoes_Especiais.dll
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\obj\Debug\net6.0\refint\04_Funcoes_Especiais.dll
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\obj\Debug\net6.0\04_Funcoes_Especiais.pdb
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\obj\Debug\net6.0\04_Funcoes_Especiais.genruntimeconfig.cache
+F:\CSharp\CSharp_POO_Estudo\04_Funcoes_Especiais\04_Funcoes_Especiais\obj\Debug\net6.0\ref\04_Funcoes_Especiais.dll

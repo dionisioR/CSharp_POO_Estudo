@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CSharp\\CSharp_POO_Estudo\\04_Funcoes_Especiais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB241E0-4961-48A9-A764-7D5D0106A93C}|04_Funcoes_Especiais\\04_Funcoes_Especiais.csproj|f:\\csharp\\csharp_poo_estudo\\04_funcoes_especiais\\04_funcoes_especiais\\datetime_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB241E0-4961-48A9-A764-7D5D0106A93C}|04_Funcoes_Especiais\\04_Funcoes_Especiais.csproj|solutionrelative:04_funcoes_especiais\\datetime_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB241E0-4961-48A9-A764-7D5D0106A93C}|04_Funcoes_Especiais\\04_Funcoes_Especiais.csproj|f:\\csharp\\csharp_poo_estudo\\04_funcoes_especiais\\04_funcoes_especiais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB241E0-4961-48A9-A764-7D5D0106A93C}|04_Funcoes_Especiais\\04_Funcoes_Especiais.csproj|solutionrelative:04_funcoes_especiais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateTime_02.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSharp_POO_Estudo\\04_Funcoes_Especiais\\04_Funcoes_Especiais\\DateTime_02.cs",
+              "RelativeDocumentMoniker": "04_Funcoes_Especiais\\DateTime_02.cs",
+              "ToolTip": "F:\\CSharp\\CSharp_POO_Estudo\\04_Funcoes_Especiais\\04_Funcoes_Especiais\\DateTime_02.cs",
+              "RelativeToolTip": "04_Funcoes_Especiais\\DateTime_02.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T21:05:47.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSharp_POO_Estudo\\04_Funcoes_Especiais\\04_Funcoes_Especiais\\Program.cs",
+              "RelativeDocumentMoniker": "04_Funcoes_Especiais\\Program.cs",
+              "ToolTip": "F:\\CSharp\\CSharp_POO_Estudo\\04_Funcoes_Especiais\\04_Funcoes_Especiais\\Program.cs",
+              "RelativeToolTip": "04_Funcoes_Especiais\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:28:36.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
