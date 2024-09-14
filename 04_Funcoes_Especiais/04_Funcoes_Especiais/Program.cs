@@ -3,4 +3,6 @@ using _04_Funcoes_Especiais;
 
 // String_01.Executar();
 // DateTime_01.Executar();
-DateTime_02.Executar();
+//DateTime_02.Executar();
+//TimeSpan_01.Executar();
+TimeSpan_02.Executar();

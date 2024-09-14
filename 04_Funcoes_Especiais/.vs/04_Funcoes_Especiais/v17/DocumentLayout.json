@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "F:\\CSharp\\CSharp_POO_Estudo\\04_Funcoes_Especiais\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AB241E0-4961-48A9-A764-7D5D0106A93C}|04_Funcoes_Especiais\\04_Funcoes_Especiais.csproj|f:\\csharp\\csharp_poo_estudo\\04_funcoes_especiais\\04_funcoes_especiais\\datetime_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AB241E0-4961-48A9-A764-7D5D0106A93C}|04_Funcoes_Especiais\\04_Funcoes_Especiais.csproj|solutionrelative:04_funcoes_especiais\\datetime_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AB241E0-4961-48A9-A764-7D5D0106A93C}|04_Funcoes_Especiais\\04_Funcoes_Especiais.csproj|f:\\csharp\\csharp_poo_estudo\\04_funcoes_especiais\\04_funcoes_especiais\\timespan_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB241E0-4961-48A9-A764-7D5D0106A93C}|04_Funcoes_Especiais\\04_Funcoes_Especiais.csproj|solutionrelative:04_funcoes_especiais\\timespan_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AB241E0-4961-48A9-A764-7D5D0106A93C}|04_Funcoes_Especiais\\04_Funcoes_Especiais.csproj|f:\\csharp\\csharp_poo_estudo\\04_funcoes_especiais\\04_funcoes_especiais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DateTime_02.cs",
-              "DocumentMoniker": "F:\\CSharp\\CSharp_POO_Estudo\\04_Funcoes_Especiais\\04_Funcoes_Especiais\\DateTime_02.cs",
-              "RelativeDocumentMoniker": "04_Funcoes_Especiais\\DateTime_02.cs",
-              "ToolTip": "F:\\CSharp\\CSharp_POO_Estudo\\04_Funcoes_Especiais\\04_Funcoes_Especiais\\DateTime_02.cs",
-              "RelativeToolTip": "04_Funcoes_Especiais\\DateTime_02.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAYwCgAAABDAAAA",
+              "Title": "TimeSpan_02.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSharp_POO_Estudo\\04_Funcoes_Especiais\\04_Funcoes_Especiais\\TimeSpan_02.cs",
+              "RelativeDocumentMoniker": "04_Funcoes_Especiais\\TimeSpan_02.cs",
+              "ToolTip": "F:\\CSharp\\CSharp_POO_Estudo\\04_Funcoes_Especiais\\04_Funcoes_Especiais\\TimeSpan_02.cs",
+              "RelativeToolTip": "04_Funcoes_Especiais\\TimeSpan_02.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCAAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T21:05:47.593Z",
+              "WhenOpened": "2024-09-14T22:35:57.782Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "04_Funcoes_Especiais\\Program.cs",
               "ToolTip": "F:\\CSharp\\CSharp_POO_Estudo\\04_Funcoes_Especiais\\04_Funcoes_Especiais\\Program.cs",
               "RelativeToolTip": "04_Funcoes_Especiais\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T18:28:36.854Z",
               "EditorCaption": ""
