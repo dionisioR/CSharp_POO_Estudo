@@ -1,0 +1,15 @@
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\bin\Debug\net6.0\05_Enumeracoes.exe
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\bin\Debug\net6.0\05_Enumeracoes.deps.json
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\bin\Debug\net6.0\05_Enumeracoes.runtimeconfig.json
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\bin\Debug\net6.0\05_Enumeracoes.dll
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\bin\Debug\net6.0\05_Enumeracoes.pdb
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\obj\Debug\net6.0\05_Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\obj\Debug\net6.0\05_Enumeracoes.AssemblyInfoInputs.cache
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\obj\Debug\net6.0\05_Enumeracoes.AssemblyInfo.cs
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\obj\Debug\net6.0\05_Enumeracoes.csproj.CoreCompileInputs.cache
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\obj\Debug\net6.0\05_Enumeracoes.sourcelink.json
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\obj\Debug\net6.0\05_Enumeracoes.dll
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\obj\Debug\net6.0\refint\05_Enumeracoes.dll
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\obj\Debug\net6.0\05_Enumeracoes.pdb
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\obj\Debug\net6.0\05_Enumeracoes.genruntimeconfig.cache
+F:\CSharp\CSharp_POO_Estudo\05_Enumeracoes\05_Enumeracoes\obj\Debug\net6.0\ref\05_Enumeracoes.dll
