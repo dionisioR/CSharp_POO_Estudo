@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CSharp\\CSharp_POO_Estudo\\06_Heranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37DF9B3E-317F-4F10-A9BE-6B7A88433FDB}|06_Heranca\\06_Heranca.csproj|f:\\csharp\\csharp_poo_estudo\\06_heranca\\06_heranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DF9B3E-317F-4F10-A9BE-6B7A88433FDB}|06_Heranca\\06_Heranca.csproj|solutionrelative:06_heranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DF9B3E-317F-4F10-A9BE-6B7A88433FDB}|06_Heranca\\06_Heranca.csproj|f:\\csharp\\csharp_poo_estudo\\06_heranca\\06_heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DF9B3E-317F-4F10-A9BE-6B7A88433FDB}|06_Heranca\\06_Heranca.csproj|solutionrelative:06_heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DF9B3E-317F-4F10-A9BE-6B7A88433FDB}|06_Heranca\\06_Heranca.csproj|f:\\csharp\\csharp_poo_estudo\\06_heranca\\06_heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DF9B3E-317F-4F10-A9BE-6B7A88433FDB}|06_Heranca\\06_Heranca.csproj|solutionrelative:06_heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSharp_POO_Estudo\\06_Heranca\\06_Heranca\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "06_Heranca\\Entities\\BusinessAccount.cs",
+              "ToolTip": "F:\\CSharp\\CSharp_POO_Estudo\\06_Heranca\\06_Heranca\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "06_Heranca\\Entities\\BusinessAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:43:10.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSharp_POO_Estudo\\06_Heranca\\06_Heranca\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "06_Heranca\\Entities\\Account.cs",
+              "ToolTip": "F:\\CSharp\\CSharp_POO_Estudo\\06_Heranca\\06_Heranca\\Entities\\Account.cs",
+              "RelativeToolTip": "06_Heranca\\Entities\\Account.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:38:18.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSharp_POO_Estudo\\06_Heranca\\06_Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "06_Heranca\\Program.cs",
+              "ToolTip": "F:\\CSharp\\CSharp_POO_Estudo\\06_Heranca\\06_Heranca\\Program.cs",
+              "RelativeToolTip": "06_Heranca\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:54:41.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
